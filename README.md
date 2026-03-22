@@ -28,7 +28,7 @@ After including the `chai` class now you can use any supported class for styling
 
 ## Example
 ```html
-<div class="chai p-thodi bg-light text-center r-md">
+<div class="chai p-thodi bg-light text-center">
   Hello Chai CSS ☕
 </div>
 ```
