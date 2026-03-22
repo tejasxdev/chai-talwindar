@@ -1,0 +1,9 @@
+{
+  "name": "chai-talwindar",
+  "version": "1.0.8",
+  "description": "CSS utility classes",
+  "license": "MIT",
+  "author": "Tejas",
+  "type": "module",
+  "main": "index.js"
+}
