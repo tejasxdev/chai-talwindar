@@ -11,7 +11,7 @@ A fun project which is a collection of CSS utility classes, inspired by Tailwind
 
 ## 📦 Installation
 ```bash
-npm install chai-css
+npm install chai-talwindar
 ```
 
 ## ⚡ Usage
